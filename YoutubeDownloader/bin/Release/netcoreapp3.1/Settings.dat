@@ -1,0 +1,12 @@
+{
+  "IsAutoUpdateEnabled": true,
+  "IsDarkModeEnabled": false,
+  "ShouldInjectTags": true,
+  "ShouldSkipExistingFiles": false,
+  "FileNameTemplate": "$title",
+  "ExcludedContainerFormats": null,
+  "MaxConcurrentDownloadCount": 2,
+  "LastFormat": "mp4",
+  "LastSubtitleLanguageCode": null,
+  "LastVideoQualityPreference": 4
+}
